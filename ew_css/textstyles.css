@@ -36,13 +36,13 @@
  color: #FEFFFF;
  word-wrap: break-word;}
 .para11{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
-.Style12{font-family:  'ZapfDingbatsITC', 'Zapf Dingbats' ;
+.Style12{font-family:  'YuKyo_Yoko-Bold', 'YuKyokasho Yoko' ;
  font-size: 24px; 
  font-weight:700; 
  color: #00B2ED;
  letter-spacing: -0.02em; 
  word-wrap: break-word;}
-.Style13{font-family:  'Impact' ,'Arial' ,sans-serif ;
+.Style13{font-family:  'YuKyo_Yoko-Bold', 'YuKyokasho Yoko' ;
  font-size: 44px; 
  font-weight:700; 
  color: #FFE020;
@@ -62,40 +62,40 @@
  font-size: 13px; 
  margin:0;
  word-wrap: break-word;}
-.Style18{font-family:  'Impact' ,'Arial' ,sans-serif ;
+.Style18{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ color: #323232;
+ word-wrap: break-word;}
+.Style19{font-family:  'Times-Roman', 'Times' ,serif ;
+ font-size: 24px; 
+ word-wrap: break-word;}
+.Style20{font-family:  'Times-Roman', 'Times' ,serif ;
+ font-size: 24px; 
+ margin:0;
+ word-wrap: break-word;}
+.Style21{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 36px; 
+ color: #42378C;
+ word-wrap: break-word;}
+.Style22{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 36px; 
+ word-wrap: break-word;}
+.Style23{font-family:  'JCHEadA', 'HeadLineA' ;
+ font-size: 24px; 
+ word-wrap: break-word;}
+.Style24{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 12px; 
+ margin:0;
+ word-wrap: break-word;}
+.Style25{font-family:  'Impact' ,'Arial' ,sans-serif ;
  font-size: 39px; 
  font-weight:700; 
  color: #858585;
  word-wrap: break-word;}
-.Style19{font-family:  'Impact' ,'Arial' ,sans-serif ;
+.Style26{font-family:  'Impact' ,'Arial' ,sans-serif ;
  font-size: 39px; 
  font-weight:700; 
  color: #F49738;
- word-wrap: break-word;}
-.Style20{font-family:  'Helvetica' ,sans-serif ;
- font-size: 24px; 
- color: #323232;
- word-wrap: break-word;}
-.Style21{font-family:  'Times-Roman', 'Times' ,serif ;
- font-size: 24px; 
- word-wrap: break-word;}
-.Style22{font-family:  'Times-Roman', 'Times' ,serif ;
- font-size: 24px; 
- margin:0;
- word-wrap: break-word;}
-.Style23{font-family:  'Helvetica' ,sans-serif ;
- font-size: 36px; 
- color: #42378C;
- word-wrap: break-word;}
-.Style24{font-family:  'Helvetica' ,sans-serif ;
- font-size: 36px; 
- word-wrap: break-word;}
-.Style25{font-family:  'JCHEadA', 'HeadLineA' ;
- font-size: 24px; 
- word-wrap: break-word;}
-.Style26{font-family:  'Helvetica' ,sans-serif ;
- font-size: 12px; 
- margin:0;
  word-wrap: break-word;}
 .Style27{font-family:  'Impact' ,'Arial' ,sans-serif ;
  font-size: 30px; 
