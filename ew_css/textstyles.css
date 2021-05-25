@@ -109,3 +109,14 @@
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.Style32{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 18px; 
+ font-weight:700; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style33{font-family:  'YuKyo_Yoko-Bold', 'YuKyokasho Yoko' ;
+ font-size: 24px; 
+ font-weight:700; 
+ color: #8AF8DF;
+ letter-spacing: -0.02em; 
+ word-wrap: break-word;}
