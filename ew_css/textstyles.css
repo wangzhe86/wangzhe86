@@ -31,7 +31,7 @@
  word-wrap: break-word;}
 .para9{font-size: 0; text-align:center; padding-bottom:0px; margin-top:0px; padding-top:0px;}
 .Style10{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
- font-size: 14px; 
+ font-size: 18px; 
  font-weight:700; 
  color: #FEFFFF;
  word-wrap: break-word;}
@@ -39,7 +39,7 @@
 .Style12{font-family:  'YuKyo_Yoko-Bold', 'YuKyokasho Yoko' ;
  font-size: 24px; 
  font-weight:700; 
- color: #00B2ED;
+ color: #8AF8DF;
  letter-spacing: -0.02em; 
  word-wrap: break-word;}
 .Style13{font-family:  'YuKyo_Yoko-Bold', 'YuKyokasho Yoko' ;
@@ -87,36 +87,77 @@
  font-size: 12px; 
  margin:0;
  word-wrap: break-word;}
-.Style25{font-family:  'Impact' ,'Arial' ,sans-serif ;
+.Style25{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 17px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style26{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 25px; 
+ color: #797979;
+ word-wrap: break-word;}
+.Style27{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 16px; 
+ color: #797979;
+ word-wrap: break-word;}
+.Style28{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 15px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style29{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 39px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style30{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 22px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style31{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 16px; 
+ color: #5E5E5E;
+ word-wrap: break-word;}
+.Style32{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 13px; 
+ color: #797979;
+ word-wrap: break-word;}
+.Style33{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 23px; 
+ color: #D5D5D5;
+ word-wrap: break-word;}
+.Style34{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 16px; 
+ color: #C0C0C0;
+ word-wrap: break-word;}
+.Style35{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 20px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style36{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 13px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style37{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 14px; 
+ color: #EE8C80;
+ word-wrap: break-word;}
+.Style38{font-family:  'Impact' ,'Arial' ,sans-serif ;
  font-size: 30px; 
  font-weight:700; 
  color: #F49738;
  word-wrap: break-word;}
-.Style26{font-family:  'Impact' ,'Arial' ,sans-serif ;
+.Style39{font-family:  'Impact' ,'Arial' ,sans-serif ;
  font-size: 14px; 
  font-weight:700; 
  color: #929292;
  word-wrap: break-word;}
-.Style27{font-family:  'Impact' ,'Arial' ,sans-serif ;
+.Style40{font-family:  'Impact' ,'Arial' ,sans-serif ;
  font-size: 39px; 
  font-weight:700; 
  color: #F49738;
  word-wrap: break-word;}
-.Style28{font-family:  'Impact' ,'Arial' ,sans-serif ;
+.Style41{font-family:  'Impact' ,'Arial' ,sans-serif ;
  font-size: 15px; 
  font-weight:700; 
  word-wrap: break-word;}
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
-.Style32{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
- font-size: 18px; 
- font-weight:700; 
- color: #FEFFFF;
- word-wrap: break-word;}
-.Style33{font-family:  'YuKyo_Yoko-Bold', 'YuKyokasho Yoko' ;
- font-size: 24px; 
- font-weight:700; 
- color: #8AF8DF;
- letter-spacing: -0.02em; 
- word-wrap: break-word;}
