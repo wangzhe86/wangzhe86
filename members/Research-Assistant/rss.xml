@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss">
+<channel>
+<title>blog 1</title>
+<description></description>
+<link>http://www.zhewang.info/Research-Assistant</link>
+<language></language>
+<pubDate>Fri, 11 Jun 2021 20:58:05 GMT</pubDate>
+<lastBuildDate>Fri, 11 Jun 2021 20:58:05 GMT</lastBuildDate>
+<item>
+<title><![CDATA[New Blog Post]]></title>
+<link>http://www.zhewang.info/members/Research-Assistant/Entries/2021/6/new-blog-post-6.html</link>
+<guid isPermaLink="false">1626BB563A344EC0A0FAC73EE2EC5479</guid>
+<pubDate>Sat, 12 Jun 2021 00:50:17 GMT</pubDate>
+<description><![CDATA[This is a sample blog post]]></description>
+<author></author>
+</item>
+</channel>
+</rss>
