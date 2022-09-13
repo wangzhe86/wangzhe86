@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	Zac-1
+	Zac‘s Blog
 	About: A shiny new Blocs website.
 	Author: 王哲
 	Version: 1.0
@@ -42,6 +42,7 @@ a:hover{text-decoration: none; cursor:pointer;}
 .bloc .container{
 	padding-left:0;
 	padding-right:0;
+	position:relative;
 }
 
 
@@ -52,6 +53,39 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 .bloc-sm{
 	padding:20px;
+}
+
+/* = Full Width Blocs 
+-------------------------------------------------------------- */
+
+.full-width-bloc{
+	padding-left:0;
+	padding-right:0;
+}
+.full-width-bloc .row{
+	margin-left:0;
+	margin-right:0;
+}
+.full-width-bloc .container{
+	width:100%;
+	max-width:100%!important;
+}
+.full-width-bloc .carousel img{
+	width:100%;
+	height:auto;
+}
+
+
+/* Background Styles */
+
+.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
+	-webkit-background-size: auto!important;
+	-moz-background-size: auto!important;
+	-o-background-size: auto!important;
+	background-size: auto!important;
+}
+.bg-repeat{
+	background-repeat:repeat!important;
 }
 
 
@@ -66,12 +100,37 @@ a:hover{text-decoration: none; cursor:pointer;}
 	left:0;
 	right:0;
 }
-.texture-paper::before{
-	background: url("img/texture-paper.png");
-	background-size: 280px 280px;
-}
 .texture-darken::before{
 	background: rgba(0,0,0,0.5);
+}
+.texture-darken-strong::before{
+	background: rgba(0,0,0,0.8);
+}
+
+
+/* Background Effects */
+
+.parallax__container {
+	clip: rect(0, auto, auto, 0);
+	height: 100%;
+	left: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index:-1;
+}
+.parallax {
+	position: fixed;
+	top: 0;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 
@@ -195,9 +254,25 @@ a:hover{text-decoration: none; cursor:pointer;}
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
 
+.mg-sm{
+	margin-top:10px;
+	margin-bottom:5px;
+}
 .mg-md{
 	margin-top:10px;
 	margin-bottom:20px;
+}
+img.mg-sm,img.mg-md,img.mg-lg{
+	margin-top: 0;
+}
+img.mg-sm{
+	margin-bottom:10px;
+}
+img.mg-md{
+	margin-bottom:30px;
+}
+img.mg-lg{
+	margin-bottom:50px;
 }
 
 /* = Buttons
@@ -213,13 +288,16 @@ button{
 	outline: none!important;
 }
 
-.a-block{
-	width:100%;
-	text-align:left;
-	display: inline-block;
+.btn-rd{
+	border-radius: 40px;
 }
-.text-center .a-block{
-	text-align:center;
+.btn-style-none,.btn-style-none:hover,.btn-style-none:active,.btn-style-none:focus{
+	background:none;
+	box-shadow: none;
+	padding:0;
+}
+.icon-spacer{
+	margin-right:5px;
 }
 
 /* = Icons
@@ -231,19 +309,27 @@ button{
 
 
 
-.card-sq, .card-sq .card-header, .card-sq .card-footer{
-	border-radius:0;
+/* = Masonary
+-------------------------------------------------------------- */
+.card-columns .card {
+	margin-bottom: 0.75rem;
 }
-.card-rd{
-	border-radius:30px;
+@media (min-width: 576px) {
+	.card-columns {
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	column-count: 3;
+	-webkit-column-gap: 1.25rem;
+	-moz-column-gap: 1.25rem;
+	column-gap: 1.25rem;
+	orphans: 1;
+	widows: 1;
 }
-.card-rd .card-header{
-	border-radius:29px 29px 0 0;
+.card-columns .card {
+	display: inline-block;
+	width: 100%;
 }
-.card-rd .card-footer{
-	border-radius:0 0 29px 29px;
 }
-
 
 
 
@@ -280,6 +366,14 @@ button{
 	stroke-width: 2px;
 	fill-rule: evenodd;
 	stroke-linecap:round;
+}
+
+.close{
+	color:#000;
+	opacity:0.5;
+}
+.close:hover{
+	opacity:1;
 }
 /* = Lightbox
 -------------------------------------------------------------- */
@@ -359,6 +453,20 @@ a[data-lightbox]:hover img{
 	pointer-events:none;
 }
 
+/* Framless */
+.frameless-lb{
+	border-radius: 0;
+	border:none;
+}
+.frameless-lb .modal-body{
+	padding:0;
+}
+.frameless-lb .lightbox-caption{
+	left:0;
+	right:0;
+	bottom:-16px;
+}
+
 /* = Custom Styling
 -------------------------------------------------------------- */
 
@@ -367,6 +475,27 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .container{
 	max-width:1140px;
+}
+.p-style{
+	font-size:22px;
+	font-family:"Source Sans Pro";
+	font-weight:300;
+}
+.link-style{
+	line-height:10px;
+}
+.p-13-style{
+	width:100%;
+}
+.h3-style{
+	font-size:40px;
+}
+.btn-style{
+	width:39.33%;
+	border-radius:25px 25px 25px 25px;
+}
+.row-style{
+	width:100%;
 }
 
 /* = Colour
@@ -384,10 +513,36 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	color:#FFFFFF!important;
 }
 
+/* Button colour styles */
+
+.btn-sea-green{
+	background:#1F8C6F;
+	color:#FFFFFF!important;
+}
+.btn-sea-green:hover{
+	background:#197059!important;
+	color:#FFFFFF!important;
+}
+
+/* Link colour styles */
+
+.ltc-white{
+	color:#FFFFFF!important;
+}
+.ltc-white:hover{
+	color:#cccccc!important;
+}
+
 /* Bloc image backgrounds */
 
-.bg--DSC79483{
-	background-image:url("img/_DSC79483.JPG");
+.bg-成山日出峰{
+	background-image:url("img/成山日出峰.jpeg");
+}
+.bg-52112-MGRVkx8a{
+	background-image:url("img/52112_MGRVkx8a.jpg");
+}
+.bg-52112-T6yVhCBz{
+	background-image:url("img/52112_T6yVhCBz.jpg");
 }
 
 
