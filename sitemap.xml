@@ -6,7 +6,7 @@
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://blog.zac.wang/img/DSC5579-1.JPG</image:loc>
+	<image:loc>https://blog.zac.wang/img/DSC5991-1.JPG</image:loc>
 	<image:title>_DSC5991 1.JPG</image:title>
 	</image:image>
 	<image:image>
@@ -56,24 +56,108 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://blog.zac.wang/img/placeholder-image-wide.png</image:loc>
+	<image:loc>https://blog.zac.wang/img/成山日出峰.jpeg</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://blog.zac.wang/img/placeholder-image-wide.png</image:loc>
+	<image:loc>https://blog.zac.wang/img/201808三亚_DSC5147-1.JPG</image:loc>
 	<image:title>slide 2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://blog.zac.wang/img/placeholder-image-wide.png</image:loc>
+	<image:loc>https://blog.zac.wang/img/DSC79483.JPG</image:loc>
 	<image:title>slide 3</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://blog.zac.wang/img/placeholder-image-sq.png</image:loc>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5964-1.JPG</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://blog.zac.wang/img/placeholder-image.png</image:loc>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5878-1.JPG</image:loc>
 	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC6071-1.JPG</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC6214-1.JPG</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC6249-1.JPG</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5958-1.JPG</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5937-1.JPG</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5902-1.JPG</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5914-1.JPG</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5881-1.JPG</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5890-1.JPG</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201907-川西行_DSC5852-1.JPG</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201801天津20180220206-1.jpg</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201801天津20180220200-1.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201801天津20180220209-1.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201801天津20180220198-1.jpg</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201801天津20180220204-1.jpg</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/201801天津20180220197-1.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/20190312-Sanantonio_DSC5579-1.JPG</image:loc>
+	<image:title>20190312 Sanantonio_DSC5579-1.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/20190312-Sanantonio_DSC5535-1.JPG</image:loc>
+	<image:title>20190312 Sanantonio_DSC5535-1.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/20190312-Sanantonio_DSC5547-1.JPG</image:loc>
+	<image:title>20190312 Sanantonio_DSC5547-1.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/20190312-Sanantonio_DSC5553-1.JPG</image:loc>
+	<image:title>20190312 Sanantonio_DSC5553-1.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.zac.wang/img/20190312-Sanantonio_DSC5544-1.JPG</image:loc>
+	<image:title>20190312 Sanantonio_DSC5544-1.JPG</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://blog.zac.wang/img/</image:loc>
